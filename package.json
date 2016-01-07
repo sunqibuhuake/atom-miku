@@ -7,12 +7,14 @@
     "miku",
     "dance",
     "WebGL"
-
   ],
   "activationCommands": {
     "atom-workspace": "AtomMiku:toggle"
   },
-  "repository": "https://github.com/atom/atom-miku",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunqibuhuake/atom-miku.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
