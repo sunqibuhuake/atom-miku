@@ -1,0 +1,23 @@
+{
+  "name": "atom-miku",
+  "main": "./lib/main.js",
+  "version": "0.0.1",
+  "description": "Miku能从你的代码中得到获得充能！",
+  "keywords": [
+    "miku",
+    "dance",
+    "WebGL"
+
+  ],
+  "activationCommands": {
+    "atom-workspace": "AtomMiku:toggle"
+  },
+  "repository": "https://github.com/atom/atom-miku",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "*"
+  }
+}
