@@ -33,7 +33,7 @@
 }
 .miku_btn {
   width: 100%;
-  border: 1px solid rgba(247,9,170,0.5);
+  border: 1px solid rgba(247,9,170,0.3);
   background: transparent;
   border-radius: 8px;
   height: 20px;
@@ -41,10 +41,20 @@
   margin: 10px 0;
   line-height: 1.5;
   cursor: pointer;
-  color: rgba(247,9,170,0.5);
+  color: rgba(247,9,170,0.3);
 }
 .miku_btn:hover,.miku_active {
   border: 1px solid rgba(247,9,170,1);
   color: rgba(247,9,170,1);
+}
+.miku_loading {
+  top: 0;
+  text-align: center;
+  color: rgba(247,9,170,1);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  padding-top: 40%;
+  font-size: 20px;
 }
 
