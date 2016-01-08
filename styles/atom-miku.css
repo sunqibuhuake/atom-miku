@@ -21,4 +21,30 @@
   top: 0;
   left: 0;
   background-color: transparent;
+  text-align: center;
+  cursor: move;
 }
+.btnGroup {
+  position: absolute;
+  left: 0;
+  width: 30%;
+  bottom: 15%;
+  display: none;
+}
+.miku_btn {
+  width: 100%;
+  border: 1px solid rgba(247,9,170,0.5);
+  background: transparent;
+  border-radius: 8px;
+  height: 20px;
+  text-align: center;
+  margin: 10px 0;
+  line-height: 1.5;
+  cursor: pointer;
+  color: rgba(247,9,170,0.5);
+}
+.miku_btn:hover,.miku_active {
+  border: 1px solid rgba(247,9,170,1);
+  color: rgba(247,9,170,1);
+}
+
