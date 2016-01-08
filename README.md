@@ -4,7 +4,13 @@
 
 ### 来自异次元的atom插件
 
-请手动鼠标右键开启
+### install
+
+run `apm install atom-miku` in terminal or search atom-miku in Atom's setting panel
+
+### active 
+
+`ctrl-alt-k`
 
 ### 本插件
  - 做工粗糙
