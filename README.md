@@ -4,9 +4,8 @@
 
 ### 来自异次元的atom插件
 
-Unfortunately,you'll cannot see Miku if you're not in China.
-
-Don't worry,I'll fix it soon.
+Unfortunately,Miku won't appear on your screen if you're not in China. T T
+I'll fix this problem soon.
 
 ### install
 
