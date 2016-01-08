@@ -4,17 +4,19 @@
 
 ### 来自异次元的atom插件
 
-warning: if you're not in China, Miku will be difficult to dance for you.Don't worry,I'll fix it soon.
+Unfortunately,you'll cannot see Miku if you're not in China.
+
+Don't worry,I'll fix it soon.
 
 ### install
 
-run `apm install atom-miku` in terminal or search atom-miku in Atom's setting panel
+run `apm install atom-miku` in terminal or search atom-miku in Atom's install panel
 
 ### active 
 
 `ctrl-alt-k`
 
-### 本插件
+### About this project
  - 做工粗糙
  - 仅供娱乐
  - 没有卵用
