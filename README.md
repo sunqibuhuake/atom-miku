@@ -4,6 +4,8 @@
 
 ### 来自异次元的atom插件
 
+warning: if you're not in China, Miku will be difficult to dance for you.Don't worry,I'll fix it soon
+
 ### install
 
 run `apm install atom-miku` in terminal or search atom-miku in Atom's setting panel
