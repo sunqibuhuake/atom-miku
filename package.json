@@ -1,7 +1,7 @@
 {
   "name": "atom-miku",
   "main": "./lib/main.js",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Miku能从你的代码中得到获得充能！",
   "keywords": [
     "miku",
